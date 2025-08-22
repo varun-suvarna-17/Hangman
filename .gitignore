@@ -1,0 +1,4 @@
+#this file is to ignore some files/folders from being tracked by git
+a.exe    
+
+# whatever executable file is created it will not be sending to github repo 
